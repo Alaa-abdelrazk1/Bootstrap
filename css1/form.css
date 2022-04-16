@@ -1,0 +1,41 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.card1,
+.iconS1 {
+  text-align: center;
+  color: white;
+  background-color: #32a89d;
+}
+
+.card2,
+.iconS2,
+.card4 {
+  background-color: #2eb0a3;
+  text-align: center;
+  color: white;
+}
+
+.card3,
+.iconS3 {
+  background-color: #23c2b2;
+  text-align: center;
+  color: white;
+}
+
+.iconS1,
+.iconS2,
+.iconS3 {
+  font-size: 40px;
+  margin-top: 20px;
+}
+.img{
+  object-fit: contain;
+filter: grayscale(100%);
+}
